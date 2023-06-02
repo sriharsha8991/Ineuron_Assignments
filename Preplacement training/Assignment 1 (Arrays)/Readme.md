@@ -1,4 +1,4 @@
-# Assignment 1 Questions - Arrays | DSA
+# [Assignment 1 Questions - Arrays | DSA](https://pwskills.notion.site/Assignment-Questions-1-131ecc8873184f8f9ec0b6254a24bd38)
 
 <aside>
 💡 **Q1.** Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
